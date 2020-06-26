@@ -1,0 +1,11 @@
+<?php
+
+namespace mytest\models;
+
+class Test
+{
+    public function say()
+    {
+        echo 'hello word';
+    }
+}
