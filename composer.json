@@ -1,9 +1,9 @@
  {  
       "name": "houyongxu/mytest",  
-      "description": "Yii2 zqy234 terrytest",  
+      "description": "Yii2  mytest",  
       "keywords": [  
         "yii2",  
-        "terrytest"  
+        "mytest"  
       ],  
       "homepage": "https://github.com/houyongxu/mytest",  
       "type": "yii2-extension",  
