@@ -1,0 +1,34 @@
+ {  
+      "name": "houyongxu/mytest",  
+      "description": "Yii2 zqy234 terrytest",  
+      "keywords": [  
+        "yii2",  
+        "terrytest"  
+      ],  
+      "homepage": "https://github.com/houyongxu/mytest",  
+      "type": "yii2-extension",  
+      "license": "MIT",  
+      "support": {  
+        "source": "https://github.com/houyongxu/mytest"  
+      },  
+      "authors": [  
+        {  
+          "name": "mytest water",  
+          "email": "houyongxu@126.com"  
+        }  
+      ],  
+      "minimum-stability": "stable",  
+      "require": {  
+        "php": ">=5.4.0",  
+        "yiisoft/yii2": ">=2.0.6"  
+         
+      },  
+      "autoload": {  
+        "psr-4": {  
+          "mytest\\": ""  
+        }  
+      },  
+      "config": {  
+        "process-timeout": 1800  
+      }  
+    }
